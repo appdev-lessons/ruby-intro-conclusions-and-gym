@@ -4,7 +4,7 @@ Congratulations! You're ready to start writing some non-trivial Ruby programs.
 
 ## Think first, search second
 
-Much of what we covered in the previous lessons is collected in [The One Ruby Reference](https://learn.firstdraft.com/lessons/33). This is intended to be a quick reference of the classes and methods you have seen so far.
+Much of what we covered in the previous lessons is collected in [The One Ruby Reference](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference). This is intended to be a quick reference of the classes and methods you have seen so far.
 
 At this point we have all the **building blocks**:
 
@@ -31,7 +31,7 @@ Any assigned task _will_ be achievable using the classes, methods, and keywords 
 
   - The previous Ruby lessons (e.g., `String`, `Array`, loops, etc.)
 
-  - [The One Ruby Reference](https://learn.firstdraft.com/lessons/33) for quick referencing and some additional methods that will be pointed out when needed.
+  - [The One Ruby Reference](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference) for quick referencing and some additional methods that will be pointed out when needed.
 
 ## Ruby Gym
 
@@ -45,7 +45,7 @@ There are likely a few ways to solve an exercise. Just get the code to pass all 
 
 As you are working on the exercise, you may find it easier to work through a solution using your `ruby-sandbox` Codespace. You can create a file for each puzzle in the Gym, which will give you more real estate to write your code, you can use `irb` or `debugger`, etc. When you think you've solved it, you can copy-paste your solution back into the graded code block here.
 
-Using the `ruby-sandbox` is also a great way to save your solutions for safekeeping by Git committing and pushing. See the [`ruby-sandbox` lesson for more information](https://learn.firstdraft.com/lessons/80).
+Using the `ruby-sandbox` is also a great way to save your solutions for safekeeping by Git committing and pushing. See the [`ruby-sandbox` lesson for more information](https://learn.firstdraft.com/lessons/80-ruby-intro-running-real-programs).
 
 ### Required Ruby Gym exercises
 
